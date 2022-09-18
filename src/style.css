@@ -1,1 +1,35 @@
-/* styles go here */
+.form_field {
+  margin-bottom: 20px;
+}
+
+input {
+  margin-top: 10px;
+}
+
+select {
+  margin-top: 10px;
+}
+
+textarea {
+  margin-top: 10px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+.first_input {
+  margin-top: 0;
+}
+
+.terms {
+  margin-top: 13px;
+}
+
+.cats {
+  margin-top: 3px;
+}
+
+.work_rate {
+  margin-top: 12px;
+}
